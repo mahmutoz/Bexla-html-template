@@ -1,2 +1,2 @@
 # Bexla Html Template
-![](bexla.png)
+![](Bexla.png)
